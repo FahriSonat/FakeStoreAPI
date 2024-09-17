@@ -1,0 +1,403 @@
+
+[
+    {
+        "id": 109,
+        "title": "create",
+        "price": 14,
+        "description": "Hi there",
+        "images": [
+            "[\"https://example.com/product-image.jpg\"]"
+        ],
+        "creationAt": "2024-08-02T04:43:22.000Z",
+        "updatedAt": "2024-08-02T04:43:22.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 110,
+        "title": "create ",
+        "price": 15,
+        "description": "Hi there",
+        "images": [
+            "[\"https://example.com/product-image.jpg\"]"
+        ],
+        "creationAt": "2024-08-02T04:43:54.000Z",
+        "updatedAt": "2024-08-02T04:43:54.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 112,
+        "title": "Мишки Барни",
+        "price": 18999,
+        "description": "Вкусные мишки",
+        "images": [
+            "[\"https://products.com/img123123.jpg\"]"
+        ],
+        "creationAt": "2024-08-02T04:45:51.000Z",
+        "updatedAt": "2024-08-02T04:45:51.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 113,
+        "title": "Мишки Барни",
+        "price": 18999,
+        "description": "Вкусные мишки",
+        "images": [
+            "[\"https://products.com/img123123.jpg\"]"
+        ],
+        "creationAt": "2024-08-02T04:49:39.000Z",
+        "updatedAt": "2024-08-02T04:49:39.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 117,
+        "title": "Мишки Барни",
+        "price": 18999,
+        "description": "Вкусные мишки",
+        "images": [
+            "[\"https://products.com/img123123.jpg\"]"
+        ],
+        "creationAt": "2024-08-02T05:05:17.000Z",
+        "updatedAt": "2024-08-02T05:05:17.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 122,
+        "title": "NoteBook",
+        "price": 240,
+        "description": "Notepad`",
+        "images": [
+            "[\"https://i.imgur.com/ZANVnHE.jpeg\"]"
+        ],
+        "creationAt": "2024-08-02T05:46:34.000Z",
+        "updatedAt": "2024-08-02T05:46:34.000Z",
+        "category": {
+            "id": 2,
+            "name": "Electronics",
+            "image": "https://i.imgur.com/ZANVnHE.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 125,
+        "title": "cccc",
+        "price": 45,
+        "description": "ccc",
+        "images": [
+            "[\"https://placeimg.com/640/480/any\"]"
+        ],
+        "creationAt": "2024-08-02T06:02:41.000Z",
+        "updatedAt": "2024-08-02T09:19:49.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 128,
+        "title": "Мишки Барни",
+        "price": 18999,
+        "description": "Вкусные мишки",
+        "images": [
+            "[\"https://products.com/img123123.jpg\"]"
+        ],
+        "creationAt": "2024-08-02T06:16:47.000Z",
+        "updatedAt": "2024-08-02T06:16:47.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 130,
+        "title": "Small Steel Keyboard",
+        "price": 890,
+        "description": "Rustic",
+        "images": [
+            "[\"http://placeimg.com/640/480\"]"
+        ],
+        "creationAt": "2024-08-02T06:19:29.000Z",
+        "updatedAt": "2024-08-02T06:19:29.000Z",
+        "category": {
+            "id": 14,
+            "name": "EntityNotFoundError",
+            "image": "http://placeimg.com/640/480",
+            "creationAt": "2024-08-02T06:16:56.000Z",
+            "updatedAt": "2024-08-02T06:16:56.000Z"
+        }
+    },
+    {
+        "id": 132,
+        "title": "Мишки Барни",
+        "price": 18999,
+        "description": "Вкусные мишки",
+        "images": [
+            "[\"https://products.com/img123123.jpg\"]"
+        ],
+        "creationAt": "2024-08-02T06:21:05.000Z",
+        "updatedAt": "2024-08-02T06:21:05.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 140,
+        "title": "Sample Product",
+        "price": 19,
+        "description": "This is a sample product.",
+        "images": [
+            "[\"https://example.com/image1.jpg\"",
+            "\"https://example.com/image2.jpg\"]"
+        ],
+        "creationAt": "2024-08-02T08:30:59.000Z",
+        "updatedAt": "2024-08-02T08:30:59.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 143,
+        "title": "Sample Product",
+        "price": 12,
+        "description": "This is a sample product.",
+        "images": [
+            "[\"https://example.com/image1.jpg\"",
+            "\"https://example.com/image2.jpg\"]"
+        ],
+        "creationAt": "2024-08-02T08:37:27.000Z",
+        "updatedAt": "2024-08-02T08:37:27.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 150,
+        "title": "Book ",
+        "price": 222,
+        "description": "Novel",
+        "images": [
+            "[\"https://example.com/product-image.jpg\"]"
+        ],
+        "creationAt": "2024-08-02T09:30:30.000Z",
+        "updatedAt": "2024-08-02T09:38:15.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 151,
+        "title": "New Product",
+        "price": 10,
+        "description": "A description",
+        "images": [
+            "[\"https://placeimg.com/640/480/any\"]"
+        ],
+        "creationAt": "2024-08-02T09:44:56.000Z",
+        "updatedAt": "2024-08-02T09:44:56.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 152,
+        "title": "New Product",
+        "price": 10,
+        "description": "A description",
+        "images": [
+            "[\"https://placeimg.com/640/480/any\"]"
+        ],
+        "creationAt": "2024-08-02T09:50:20.000Z",
+        "updatedAt": "2024-08-02T09:50:20.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 153,
+        "title": "New Product",
+        "price": 10,
+        "description": "A description",
+        "images": [
+            "[\"https://placeimg.com/640/480/any\"]"
+        ],
+        "creationAt": "2024-08-02T10:00:58.000Z",
+        "updatedAt": "2024-08-02T10:00:58.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 154,
+        "title": "New Product",
+        "price": 10,
+        "description": "A description",
+        "images": [
+            "[\"https://placeimg.com/640/480/any\"]"
+        ],
+        "creationAt": "2024-08-02T10:01:36.000Z",
+        "updatedAt": "2024-08-02T10:01:36.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 155,
+        "title": "New Product",
+        "price": 10,
+        "description": "A description",
+        "images": [
+            "[\"https://placeimg.com/640/480/any\"]"
+        ],
+        "creationAt": "2024-08-02T10:04:12.000Z",
+        "updatedAt": "2024-08-02T10:04:12.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 156,
+        "title": "Dolly ki chai",
+        "price": 120,
+        "description": "this is dolly's best chai",
+        "images": [
+            "[\"https://firebasestorage.googleapis.com/v0/b/storagemanager-df23d.appspot.com/o/products%2F1722593059148?alt=media&token=05790766-32be-4bce-adcc-3fe71f877f8d\"",
+            "\"https://firebasestorage.googleapis.com/v0/b/storagemanager-df23d.appspot.com/o/products%2F1722593061255?alt=media&token=8d147720-9a9d-4882-9f2c-dbcd2c5a24ea\"]"
+        ],
+        "creationAt": "2024-08-02T10:04:24.000Z",
+        "updatedAt": "2024-08-02T10:04:24.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 157,
+        "title": "hi thert",
+        "price": 23,
+        "description": "Hi there",
+        "images": [
+            "[\"https://example.com/product-image.jpg\"]"
+        ],
+        "creationAt": "2024-08-02T10:06:07.000Z",
+        "updatedAt": "2024-08-02T10:06:07.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 158,
+        "title": "Chai",
+        "price": 120,
+        "description": "cahi chai chai ahcai hcai ",
+        "images": [
+            "[\"https://firebasestorage.googleapis.com/v0/b/storagemanager-df23d.appspot.com/o/products%2F1722593273045?alt=media&token=9a2284f3-0bf8-4069-8aa0-1d73f0de589b\"",
+            "\"https://firebasestorage.googleapis.com/v0/b/storagemanager-df23d.appspot.com/o/products%2F1722593274707?alt=media&token=32111d2a-8f3d-479c-8330-e982d92420c2\"]"
+        ],
+        "creationAt": "2024-08-02T10:07:57.000Z",
+        "updatedAt": "2024-08-02T10:07:57.000Z",
+        "category": {
+            "id": 3,
+            "name": "Furniture",
+            "image": "https://i.imgur.com/Qphac99.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    },
+    {
+        "id": 159,
+        "title": "adwawd",
+        "price": 123,
+        "description": "dawd",
+        "images": [
+            "[\"https://i.imgur.com/QkIa5tT.jpeg\"]"
+        ],
+        "creationAt": "2024-08-02T10:19:23.000Z",
+        "updatedAt": "2024-08-02T10:19:23.000Z",
+        "category": {
+            "id": 2,
+            "name": "Electronics",
+            "image": "https://i.imgur.com/ZANVnHE.jpeg",
+            "creationAt": "2024-08-01T17:09:03.000Z",
+            "updatedAt": "2024-08-01T17:09:03.000Z"
+        }
+    }
+]
